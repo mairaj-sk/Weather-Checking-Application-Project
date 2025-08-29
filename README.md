@@ -1,3 +1,11 @@
 # Weather-Checking-Application-Project
-In this Weather Checking Application you can find the weather, humidity and wind speed according to the city.
-You can use this for your college project build with HTML/CSS and Javascript API.
+🌦️ Weather Application
+I’ve developed a simple yet powerful Weather App that provides:
+✅ Real-time Weather Updates
+✅ Accurate Temperature, Humidity & Wind Speed
+✅ Dynamic Icons & UI based on weather conditions
+
+This project helped me practice working with APIs, and JavaScript. 🚀
+Perfect for beginners exploring API integration and frontend development.
+
+#WeatherApp #JavaScript #API #Frontend #WebDevelopment #OpenWeather
